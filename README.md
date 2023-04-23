@@ -35,6 +35,6 @@ s and t consist of lowercase English letters only.
 
 ### Result:
 
-The time complexity of this algorithm is O(N), while the space complexity is O(N^2).
+The time complexity of this algorithm is O(N), while the space complexity is O(1).
 
 ![img.png](img.png)
